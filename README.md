@@ -43,8 +43,6 @@ If you send this folder to a teacher/friend (or move to a new laptop), they **DO
 
 ---
 
-## How to Run the Project (For Viva Presentation)
-
 Follow these exact steps to flawlessly demonstrate the Zero-Knowledge property of the algorith.
 
 ### Step 1: Run the Off-chain Proof Generation
