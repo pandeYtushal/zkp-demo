@@ -1,4 +1,4 @@
-# Zero-Knowledge Proof (ZKP) Age Verification dApp
+# Zero-Knowledge Proof (ZKP) Age Verification App
 
 This project demonstrates a real-world, privacy-preserving Smart Contract using Zero-Knowledge Proofs (zk-SNARKs). 
 
