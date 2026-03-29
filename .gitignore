@@ -1,0 +1,19 @@
+node_modules/
+package-lock.json
+
+# Ignore the huge setup phase files, as they are no longer needed after the final ZKEY is created!
+# These files are several MBs and will bloat your GitHub repository.
+pot12_0000.ptau
+pot12_0001.ptau
+pot12_final.ptau
+circuit_0000.zkey
+
+# Ignore the Windows compiler binary (it's 12MB+ and users don't need it to just generate proofs)
+circom.exe
+
+# Ignore local temporary outputs/inputs
+input.json
+calldata.txt
+proof_output.txt
+proof.json
+public.json
